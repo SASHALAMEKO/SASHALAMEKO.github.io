@@ -1,3 +1,40 @@
-.class {
-    width: 500px;
+body {
+    background-color: rgb(255, 228, 196);
+    font-size: 30px;
+    font-family: 'Unbounded', sans-serif;
+}
+
+.zagolovok {
+    text-align: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    gap: 0 50px;
+}
+
+.dota_head {
+    color: rgb(255, 255, 255);
+    background-image: url(../icon/1900x1000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.cs_head {
+    color: rgb(255, 255, 255);
+    background-image: url(../icon/1900x1000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box_head {
+    color: rgb(255, 255, 255);
+    background-image: url(../icon/1900x1000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
