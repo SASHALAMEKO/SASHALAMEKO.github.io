@@ -24,7 +24,7 @@ body {
 }
 
 .cs_head {
-    color: rgb(0, 255, 255);
+    color: rgb(255, 255, 255);
     background-image: url(cs.png);
     background-repeat: no-repeat;
     background-size: cover;
