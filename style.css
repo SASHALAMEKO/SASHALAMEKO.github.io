@@ -38,3 +38,26 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+.ts {
+	font-family: Arial;
+	font-size: 30px;
+	color: #FFFFFF;
+	text-shadow:
+		-0   -1px 0   #000000,
+		 0   -1px 0   #000000,
+		-0    1px 0   #000000,
+		 0    1px 0   #000000,
+		-1px -0   0   #000000,
+		 1px -0   0   #000000,
+		-1px  0   0   #000000,
+		 1px  0   0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000;
+}
