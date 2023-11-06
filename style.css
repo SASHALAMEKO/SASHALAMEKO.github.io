@@ -17,7 +17,7 @@ body {
 
 .dota_head {
     color: rgb(255, 255, 255);
-    background-image: url(../icon/1900x1000.jpg);
+    background-image: url(Dota2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -25,7 +25,7 @@ body {
 
 .cs_head {
     color: rgb(255, 255, 255);
-    background-image: url(../icon/1900x1000.jpg);
+    background-image: url(cs.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -33,7 +33,7 @@ body {
 
 .box_head {
     color: rgb(255, 255, 255);
-    background-image: url(../icon/1900x1000.jpg);
+    background-image: url(box.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
